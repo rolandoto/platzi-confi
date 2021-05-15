@@ -13,6 +13,14 @@
   }
 }
 
+@media (max-width: 600px) {
+  .Products-items {
+    grid-gap: 1.5rem;
+    grid-row-gap: 1.5em;
+    display: grid;
+  }
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

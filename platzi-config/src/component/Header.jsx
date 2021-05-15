@@ -19,7 +19,7 @@ export const Header = () => {
         <div className="Header-chekaout">
             
            <Link to="/Chekaout">
-           <li className="fas fa-shopping-basket" /> 
+           <li className=" ew fas fa-shopping-basket" /> 
            {cart.length > 0 && <div className="header-alert">{cart.length}</div>}
            </Link>
           

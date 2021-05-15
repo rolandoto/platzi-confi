@@ -19,3 +19,14 @@
   text-decoration: none;
   color: #33b1ff;
 }
+
+
+
+
+@media (max-width: 600px) {
+  .fa-shopping-basket:before  {
+  
+    font-size: 76px;
+
+  }
+}

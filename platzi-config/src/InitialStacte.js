@@ -13,7 +13,7 @@ export default {
         {
             'id':'2',
             'image':'https://arepa.s3.amazonaws.com/mug.png',
-            'title':'camiseta',
+            'title':'pantalon',
             'price' :25,
             'descripction':'lore re'
         },
